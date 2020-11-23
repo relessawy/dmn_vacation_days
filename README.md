@@ -1,4 +1,4 @@
-#Decision Model & Notation - Employee Vacation Days
+## Decision Model & Notation - Employee Vacation Days
 
 In this lab we will create a decision that determines the number of vacation days assigned to an employee using Decision Model & Notation (DMN). The number of vacation days depends on age and years of service
 
